@@ -1,1 +1,2 @@
-# ethereum-lottery
+# Ethereum Lottery
+
